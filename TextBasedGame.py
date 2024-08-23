@@ -1,5 +1,3 @@
-# Roger Fisher Jr
-
 import os
 
 # Define the room dictionary and other global variables
